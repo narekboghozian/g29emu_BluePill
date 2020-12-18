@@ -1,3 +1,11 @@
+# g29emu_BluePill v0.1
+
+Thanks to mathijsvandenberg for starting this project. This fork is intended to make this project work with the STM32f103c8t6 based "Blue-Pill". This is chosen because it's fast, cheap, and has on-chip usb support.
+
+Original post:
+https://forum.gimx.fr/viewtopic.php?t=3036
+
+--------------------------------------------
 # g29emu v0.1
 
 First of all, big thanks to matlo for creating [GIMX](https://github.com/matlo/GIMX). This is the base of g29emu.
